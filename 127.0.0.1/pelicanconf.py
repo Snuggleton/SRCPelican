@@ -7,7 +7,7 @@ SITENAME = u'SRCPelican'
 SITEURL = ''
 
 PATH = 'content'
-
+THEME = 'theme1'
 TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'en'
