@@ -8,6 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 THEME = 'theme1'
+PLUGIN_PATHS = ["plugins", "~/projects/SRCPelican/127.0.0.1/plugins"] #Absolute path will probably have to be edited
 TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'en'
